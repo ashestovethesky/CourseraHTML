@@ -14,16 +14,13 @@ div {
   border: 1px solid black;
   background-color: gray;
   font-family: "Comic Sans MS";
-  font-size: 1.25em;
   color: black;
   overflow: auto;
 }
 
 #Menu {
-  border-top-width: 0px;
-  border-right-width: 0px;
-  border-left-width: 1px solid black;
   float: right;
+  border: 1px solid black;
   width: 50%;
   height: 20%;
   text-align: center;
@@ -34,7 +31,7 @@ p {
   padding: 10px;
 }
 
-/* Responsive*/
+/* Responsive */
 
 .row {
   width: 100%;
